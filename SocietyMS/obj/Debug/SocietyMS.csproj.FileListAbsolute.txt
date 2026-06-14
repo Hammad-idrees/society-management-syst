@@ -1,0 +1,11 @@
+C:\Users\AbdulAhad\Desktop\smm_project\SocietyMS\obj\Debug\SocietyMS.csprojResolveAssemblyReference.cache
+C:\Users\AbdulAhad\Desktop\smm_project\SocietyMS\bin\Debug\SocietyMS.exe
+C:\Users\AbdulAhad\Desktop\smm_project\SocietyMS\bin\Debug\SocietyMS.pdb
+C:\Users\AbdulAhad\Desktop\smm_project\SocietyMS\bin\Debug\mscorlib.dll
+C:\Users\AbdulAhad\Desktop\smm_project\SocietyMS\bin\Debug\normidna.nlp
+C:\Users\AbdulAhad\Desktop\smm_project\SocietyMS\bin\Debug\normnfc.nlp
+C:\Users\AbdulAhad\Desktop\smm_project\SocietyMS\bin\Debug\normnfd.nlp
+C:\Users\AbdulAhad\Desktop\smm_project\SocietyMS\bin\Debug\normnfkc.nlp
+C:\Users\AbdulAhad\Desktop\smm_project\SocietyMS\bin\Debug\normnfkd.nlp
+C:\Users\AbdulAhad\Desktop\smm_project\SocietyMS\obj\Debug\SocietyMS.exe
+C:\Users\AbdulAhad\Desktop\smm_project\SocietyMS\obj\Debug\SocietyMS.pdb
